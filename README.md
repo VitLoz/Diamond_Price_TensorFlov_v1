@@ -1,1 +1,1 @@
-# Prediction of diamonds prices with TensorFlow V1.
+# Prediction of diamonds' prices with TensorFlow V1.
